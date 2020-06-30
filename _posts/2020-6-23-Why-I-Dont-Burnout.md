@@ -2,7 +2,7 @@
 layout: post
 title: Why I Don't Burnout
 categories: [Productivity]
-tags: [self improving, motivation]
+tags: [self improvement, motivation]
 ---
 
 I don't care what you call it --  depression, being lazy, your mind is not balanced with your body, or whatever. I'm writing this to let you know that it is possible for humans not to burnout and here are some tips to get this word behind you.
