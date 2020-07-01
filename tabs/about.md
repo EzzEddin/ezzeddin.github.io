@@ -1,4 +1,5 @@
 ---
+layout: page
 title: About
 
 # All the Tags of posts.
