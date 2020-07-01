@@ -9,9 +9,9 @@
 
 set -eu
 
-CATEGORIES=false
-TAGS=false
-LASTMOD=false
+CATEGORIES=true
+TAGS=true
+LASTMOD=true
 
 WORK_DIR=$(dirname $(dirname $(realpath "$0")))
 
